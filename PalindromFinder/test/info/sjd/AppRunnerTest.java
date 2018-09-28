@@ -23,7 +23,9 @@ public class AppRunnerTest {
 		
 		assertTrue(!condition1);
 		
+		
 		assertTrue(condition2);
+		
 	}
 
 }
